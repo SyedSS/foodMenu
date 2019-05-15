@@ -1,0 +1,35 @@
+.photoDetails {
+    max-width: 100%;
+     max-height:100%;
+}
+
+.itemDetails {
+    height: 98vh;
+    overflow: hidden;
+}
+
+.headerItem {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+}
+.headerText {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    margin-top: 50px;
+    
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    
+    font: 32px Arial, sans-serif;
+}
